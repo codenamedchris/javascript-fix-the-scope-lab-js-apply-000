@@ -5,7 +5,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-var animal = 'dog'
+var animal = 'cat'
   return animal
 }
 
@@ -19,4 +19,4 @@ var funkyFunction = function() {
     return "FUNKY!"
   }
 }
-var theFunk = funkyFunction("FUNKY!")
+var theFunk = funkyFunction()
